@@ -1,4 +1,4 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
+<h1 align="center"><b>ᴛʜᴇ ᴋɪʟʟʟᴇʀ ʜᴇʟʟ ʙᴏᴛ</b></h1>
 
 <p align="center"><img src="https://graph.org/file/862bab1d182a29c4361b0.jpg" alt="The HellBot"></p>
 
@@ -28,9 +28,9 @@
 
 ---
 
-## Deploying HellBot on Heroku
+## 𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗞𝗶𝗹𝗹𝗲𝗿𝗵𝗲𝗹𝗹𝗯𝗼𝘁 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
 
-Follow these 4 straightforward steps to deploy HellBot on Heroku:
+Follow these 4 straightforward steps to deploy KillerHellBot on Heroku:
 
 1. **Fork & Star this Repo:**
     > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/The-Hellbot/Hellbot/) this repository on GitHub.
@@ -52,7 +52,7 @@ That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and s
 
 ---
 
-## Deploying HellBot on Linux
+## 𝗗𝗘𝗣𝗢𝗟𝗬𝗜𝗡𝗚 𝗞𝗜𝗟𝗟𝗘𝗥𝗛𝗘𝗟𝗟𝗕𝗢𝗧 𝗢𝗡 𝗟𝗜𝗡𝗨𝗫
 
 Hellbot can be deployed on any Linux VPS and terminal.
 
